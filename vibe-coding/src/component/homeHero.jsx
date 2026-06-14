@@ -92,7 +92,7 @@ Contact Me
         <div className="hover-3d relative cursor-target">
         {/* content */}
         <figure className="max-w-100 rounded-2xl">
-            <img src="../images/wmremove-transformed__1_-removebg-preview.png" alt="3D card" />
+            <img src= "vibe-coding\src\images\wmremove-transformed__1_-removebg-preview.png" alt="3D card" />
         </figure>
         {/* 8 empty divs needed for the 3D effect */}
         <div></div>
